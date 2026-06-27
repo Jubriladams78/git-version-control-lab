@@ -2,8 +2,6 @@
 ### JJAdams Empire and Associates | IT Portfolio
 **Jubril Adams** | AZ-104 | CompTIA Cloud+ | Network+ | Security+
 
----
-
 ## Project Overview
 
 Implemented a complete Git-based version control workflow simulating 
@@ -12,8 +10,6 @@ using GitLab, resolved merge conflicts, applied semantic versioning,
 and maintained professional documentation throughout the development 
 lifecycle.
 
----
-
 ## Business Scenario
 
 Engaged as an IT consultant for a web development firm requiring 
@@ -21,8 +17,6 @@ version-controlled management of their company website source files.
 Multiple consultants working concurrently required disciplined 
 branching strategy, commit hygiene, and conflict resolution 
 procedures to protect code integrity.
-
----
 
 ## Technical Skills Demonstrated
 
@@ -34,8 +28,6 @@ procedures to protect code integrity.
 - HTML debugging and code quality improvement
 - Technical documentation and retrospective writing
 
----
-
 ## Tools and Technologies
 
 | Tool | Purpose |
@@ -45,7 +37,5 @@ procedures to protect code integrity.
 | Git Bash | Command line interface on Windows |
 | HTML | Website source file modification |
 | Notepad | Text editing for code changes |
-
----
 
 ## Workflow Architecture
