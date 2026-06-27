@@ -1,4 +1,4 @@
- Version Control and Git Workflow Management
+# Version Control and Git Workflow Management
 ### JJAdams Empire and Associates | IT Portfolio
 **Jubril Adams** | AZ-104 | CompTIA Cloud+ | Network+ | Security+
 
@@ -124,6 +124,33 @@ Created a structured retrospective directory containing:
 These are daily skills required in IT Support, Systems 
 Administration, Cloud Engineering, and DevOps roles.
 
+## Screenshots
+
+### Part A - Working Branch Created
+![Working Branch](images/A1_Working_Branch_Created.png)
+![Repository Graph Initial](images/A2_Repository_Graph_Initial.png)
+
+### Part B - Repository Cloned Successfully
+![Clone Repository](images/B_Clone_Remote_Repository.png)
+
+### Part C - HTML File Commits on Working Branch
+![Commit index.html](images/C1a_Commit_index_html.png)
+![Commit about.html](images/C1b_Commit_about_html.png)
+![Commit services.html](images/C1c_Commit_services_html.png)
+![Push Working Branch](images/C2_Push_Working_Branch.png)
+
+### Part D - Test Branch Created and Pushed
+![Test Branch Push](images/D_Test_Branch_StudentID_Push.png)
+![Repository Graph Test Branch](images/D1_Repository_Graph_Test_Branch.png)
+
+### Part E - Merge Conflict and Resolution
+![Merge Conflict Detected](images/E_Merge_Conflict_Detected.png)
+![Conflict Resolved Graph](images/E1_Conflict_Resolved_Graph.png)
+
+### Part F - Version Tag Applied
+![Tag Created and Pushed](images/F_Tag_V1_0_0_Created_Pushed.png)
+![Repository Graph with Tag](images/F1_Repository_Graph_Tag.png)
+
 ## Live Repository
 
 GitLab:
@@ -132,7 +159,7 @@ https://gitlab.com/wgu-gitlab-environment/student-repos/jada246/d197-version-con
 ## Connect
 
 Portfolio: https://jubriladams78.github.io
-LinkedIn: linkedin.com/in/jubriladams
+LinkedIn: linkedin.com/in/jubriladams78
 
 ---
 *Jubril Adams | JJAdams Empire and Associates*
