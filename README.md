@@ -132,7 +132,7 @@ https://gitlab.com/wgu-gitlab-environment/student-repos/jada246/d197-version-con
 ## Connect
 
 Portfolio: https://jubriladams78.github.io
-LinkedIn: linkedin.com/in/jubriladams78
+LinkedIn: linkedin.com/in/jubriladams
 
 ---
 *Jubril Adams | JJAdams Empire and Associates*
